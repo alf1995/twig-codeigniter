@@ -4,7 +4,7 @@
 
 # Requerimientos
 
-- PHP 7.0.0 o superior
+- PHP 7.0 o superior
 - Twig 2.0 o superior
 
 # Instalación
